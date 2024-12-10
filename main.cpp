@@ -1,3 +1,6 @@
+# Author: Jalen Jones
+# Date: 12/7/2024
+
 #include "bst.h"
 #include <iostream>
 #include <string>
